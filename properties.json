@@ -1,4 +1,4 @@
 {
 	"server.port": 8081
-	"server.port2": 8082
+	"http.port": 8082
 }
